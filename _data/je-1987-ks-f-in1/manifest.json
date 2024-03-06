@@ -16,6 +16,16 @@
         "id": "https://tanyaclement.github.io/praat_example/je-1987-ks-f-in1/canvas-1/canvas",
         "type": "Canvas",
         "duration": 1332.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/praat_example/annotations/je-1987-ks-f-in1-canvas-1-sentence.json",
+            "label": {
+              "none": ["sentence"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://tanyaclement.github.io/praat_example/je-1987-ks-f-in1/canvas-1/paintings",
